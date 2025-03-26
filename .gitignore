@@ -1,0 +1,30 @@
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# Log files
+*.log
+
+# Data files
+*.csv
+*.h5
+*.pkl
+
+!random_submission.csv
+
+# Environment variables
+.env
+
+# IDE/editor config
+.vscode/
+.idea/
