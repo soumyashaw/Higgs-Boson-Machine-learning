@@ -18,38 +18,36 @@
 ---
 
 ### Step 2: Data Handling and Visualization
-	•	Key Skills:
-	•	Understanding TTrees and TBranches
-	•	Manipulating ROOT files and data formats
-	•	Creating various plots (histograms, scatter plots, graphs)
-	•	Resources:
-	•	[ROOT TTree Tutorial](https://root.cern/manual/trees/)
-	•	[Video series: TTree and Data Analysis in ROOT (YouTube)](https://youtu.be/_Ev2JndPEeQ)
+- Key Skills:
+	- Understanding TTrees and TBranches
+	- Manipulating ROOT files and data formats
+	- Creating various plots (histograms, scatter plots, graphs)
+- Resources:
+  	- [ROOT TTree Tutorial](https://root.cern/manual/trees/)
+	- [Video series: TTree and Data Analysis in ROOT (YouTube)](https://youtu.be/_Ev2JndPEeQ)
 
 ---
 
 ### Step 3: Advanced Data Analysis
-	•	Skills to Focus:
-	•	Statistical analysis and fitting (TMinuit, TFitter)
-	•	Implementing advanced visualization techniques (2D/3D plots, animations)
-	•	ROOT Macros, Scripts, and C++ integration
-	•	Key Resources:
-	•	Statistical Tools & Fitting
-	•	Advanced Plotting with ROOT
-	•	Video Lecture: Advanced ROOT Tutorials (CERN Indico)
+- Skills to Focus:
+	- Statistical analysis and fitting (TMinuit, TFitter)
+	- Implementing advanced visualization techniques (2D/3D plots, animations)
+	- ROOT Macros, Scripts, and C++ integration
+- Key Resources:
+	- [Statistical Tools & Fitting](https://root.cern/manual/statistics/)
+	- [Advanced Plotting with ROOT](https://root.cern/doc/master/group__Graphics.html)
+	- Video Lecture: [Advanced ROOT Tutorials (CERN Indico)](https://indico.cern.ch/event/795127/)
 
 ⸻
 
-🎯 Mini Projects with ROOT:
-	•	Project 1:
-Histogram & Statistical Analysis
-	•	Obtain real experimental data (e.g., from CERN Open Data Portal).
-	•	Plot histograms, fit functions, calculate means, standard deviations.
-	•	Project 2:
-Particle Track Visualization
-	•	Create visualization macros/scripts using simulated particle tracks.
-	•	Demonstrate 3D plots and animations.
-	•	Data Sources: CERN Open Data
+## 🎯 Mini Projects with ROOT:
+- Project 1: Histogram & Statistical Analysis
+	- Obtain real experimental data (e.g., from CERN Open Data Portal).
+	- Plot histograms, fit functions, calculate means, standard deviations.
+- Project 2: Particle Track Visualization
+  	- Create visualization macros/scripts using simulated particle tracks.
+	- Demonstrate 3D plots and animations.
+- Data Sources: [CERN Open Data](http://opendata.cern.ch/)
 
 ⸻
 
