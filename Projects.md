@@ -7,13 +7,13 @@
 ## ✅ Step-by-Step Learning Plan
 
 ### Step 1: Getting Familiar (Basics)
-	•	Introduction & Installation:
-	•	Official Website: [https://root.cern/](https://root.cern/)
-	•	Installation guide: [ROOT Installation](https://root.cern/install/)
-	•	Tutorial video: Getting Started with ROOT ([YouTube](https://youtu.be/o_BaG5zDJW4))
-	•	Learn Basic ROOT Commands:
-	•	Opening ROOT files, simple histograms, basic plots.
-	•	Recommended Tutorials: [ROOT Tutorials for Beginners](https://root.cern/doc/master/group__Tutorials.html)
+- Introduction & Installation:
+	- Official Website: [https://root.cern/](https://root.cern/)
+	- Installation guide: [ROOT Installation](https://root.cern/install/)
+	- Tutorial video: Getting Started with ROOT ([YouTube](https://youtu.be/o_BaG5zDJW4))
+- Learn Basic ROOT Commands:
+  	- Opening ROOT files, simple histograms, basic plots.
+	- Recommended Tutorials: [ROOT Tutorials for Beginners](https://root.cern/doc/master/group__Tutorials.html)
 
 ---
 
