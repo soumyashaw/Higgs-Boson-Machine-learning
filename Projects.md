@@ -116,3 +116,15 @@
 	- Recorded CERN seminars, workshops, tutorials on ROOT and GEANT4.
 - [HEP Software Foundation](https://hepsoftwarefoundation.org/)
 	- Community resources and tutorials focused on High Energy Physics software.
+---
+# 📌 Recommended Learning Schedule:
+
+| Weeks | Topic                            | Tasks & Goals                                   |
+|:-----:|----------------------------------|-------------------------------------------------|
+|  1-3  | ROOT Fundamentals                | Installation, TTrees, Basic Histograms & Plots  |
+|  4-5  | ROOT Advanced Analysis           | Statistical Fitting, Advanced Visualizations    |
+|  6-7  | ROOT Project                     | Histogram & Particle Track Visualization        |
+|  8-10 | GEANT4 Basics & Geometry         | Installation, Geometry, Detector Design         |
+| 11-13 | GEANT4 Physics Simulation        | Physics Lists, Particle Interactions            |
+| 14-16 | GEANT4 Advanced Analysis         | Integrating GEANT4 with ROOT for Analysis       |
+| 17-20 | GEANT4 Project                   | Detector Simulations (Muon/Calorimeter)         |
